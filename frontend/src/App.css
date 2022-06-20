@@ -1,0 +1,24 @@
+label {
+  display: block;
+}
+
+
+span {
+  display: inline-block;
+  width: 7.5em;
+}
+
+
+img {
+  max-width: 240px;
+}
+
+
+#to-upload {
+  background-color: #fec;
+}
+
+
+#uploaded {
+  background-color: #cfc;
+}
